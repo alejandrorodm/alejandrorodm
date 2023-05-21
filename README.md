@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrSh4d0wm.
+- 👋 Hi, I’m @MrSh4d0w.
 - 👀 I’m interested in learning things related to cibersecurity and automatization
 - 💞️ I’m looking to collaborate on some projects about codding or cibersecurity
 - 📫 You can reach me writing up an email to mrsh4d0w@proton.me
