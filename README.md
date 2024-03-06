@@ -4,8 +4,7 @@
 - 📫 You can reach me writing up an email to mrsh4d0w@proton.me
 - Languages: Spanish and English.
 
-I know how to use techniques like dynamic programming, backtracking, divide and conquer, greedy algorithms...
-I have a basic knowledge of databases too, some HTML and CSS.
+Knowledge: dynamic programming, backtracking, divide and conquer, greedy algorithms, databases, and some basic HTML and CSS too.
 
 My main language is Java, although I use Python and C too. 
 
