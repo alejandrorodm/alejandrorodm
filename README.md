@@ -9,7 +9,7 @@
 Soy un apasionado de la tecnología, la automatización y la ciberseguridad. Siempre estoy aprendiendo nuevas cosas relacionadas con **IA, seguridad informática y automatización de procesos**.
 
 ## 🚀 Habilidades y Tecnologías
-- 💻 **Lenguajes de Programación:** Python, Java, C++
+- 💻 **Lenguajes de Programación:** Python, Java, C++.
 - 🔐 **Intereses:** Inteligencia Artificial, Ciberseguridad, Automatización
 - 🛠 **Herramientas y Tecnologías:** Linux, Docker, Git, BDD...
 
