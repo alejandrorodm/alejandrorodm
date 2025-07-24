@@ -14,7 +14,7 @@ Soy un apasionado de la tecnología, los datos, la automatización y la ciberseg
 - 🛠 **Herramientas y Tecnologías:** Linux, Docker, Git, BDD...
 
 ## 💬 Contacto
-📩 **Email:** [alejandrorodm@proton.me](mailto:alejandrorodm@proton.me)  
+📩 **Email:** [alejandrorodriguez.m@outlook.es](mailto:alejandrorodriguez.m@outlook.es)  
 🌎 **Idiomas:** Español, Inglés  
 
 ---
