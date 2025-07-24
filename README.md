@@ -6,11 +6,11 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ## 💡 Sobre mí
-Soy un apasionado de la tecnología, la automatización y la ciberseguridad. Siempre estoy aprendiendo nuevas cosas relacionadas con **IA, seguridad informática y automatización de procesos**.
+Soy un apasionado de la tecnología, los datos, la automatización y la ciberseguridad. Siempre estoy aprendiendo nuevas cosas relacionadas con **IA, seguridad informática y automatización de procesos**.
 
 ## 🚀 Habilidades y Tecnologías
 - 💻 **Lenguajes de Programación:** Python, Java, C++.
-- 🔐 **Intereses:** Inteligencia Artificial, Ciberseguridad, Automatización
+- 🔐 **Intereses:** Inteligencia Artificial, Análisis de Datos, Ciberseguridad, Automatización
 - 🛠 **Herramientas y Tecnologías:** Linux, Docker, Git, BDD...
 
 ## 💬 Contacto
